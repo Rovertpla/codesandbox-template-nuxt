@@ -12,3 +12,6 @@ This is a [Nuxt](https://nuxtjs.org/) project bootstrapped by [`create-nuxt-app`
 - [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
 - [Nuxt — GitHub](https://github.com/nuxt/framework)
 - [Nuxt — Docs](https://nuxtjs.org/docs)
+
+start
+incoa
